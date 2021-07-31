@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COVID_TRACKER</string>
+    <string name="world_wide_record">World Wide Record</string>
+    <string name="number_of_cases">Number of cases</string>
+    <string name="cases">Cases</string>
+    <string name="number_of_deaths">Number of Deaths</string>
+    <string name="deaths">Deaths</string>
+    <string name="number_of_recovered_patient">Number of Recovered Patient</string>
+    <string name="recovered_patient">Recovered patient</string>
+    <string name="indian_record">Indian Record</string>
+    <string name="state_name">State Name</string>
+</resources>
